@@ -1,7 +1,6 @@
-# valentine_choco_app
+# PageViewTest
 
-A new Flutter project.
-
+画面遷移で選択されたページのPageViewを表示する
 ## Getting Started
 
 This project is a starting point for a Flutter application.
